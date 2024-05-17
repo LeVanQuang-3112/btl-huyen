@@ -1,0 +1,34 @@
+{
+  "tabsData": [
+    {
+      "name": "Pomodoro",
+      "minute": 25,
+      "second": 0,
+      "themeColor": "#ba4949",
+      "isActive": true
+    },
+    {
+      "name": "Short Break",
+      "minute": 5,
+      "second": 0,
+      "themeColor": "#38858a",
+      "isActive": false
+    },
+    {
+      "name": "Long Break",
+      "minute": 10,
+      "second": 0,
+      "themeColor": "#397097",
+      "isActive": false
+    }
+  ],
+  "autoStartBreak": false,
+  "autoStartPomodoro": false,
+  "longBreakInterval": 4,
+  "autoSwitchTasks": false,
+  "alarmSound": "https://kekkekew-my.sharepoint.com/:u:/g/personal/sirq_kekkekew_onmicrosoft_com/EQgCDM8kNaBGvW60kQIPjRcBdg5EiIukb8jFtLJV9LXTSg?e=W9nsee",
+  "alarmVolume": 0.5,
+  "alarmSoundRepeat": 1,
+  "tickingVolume": 0.5,
+  "tickingSound": "none"
+}
